@@ -57,7 +57,7 @@ bilibili by flutter
 |      频道/动态      | ![dynamic](screenshot/channel.png) ![mall](screenshot/dynamic.png) |
 |      会员购      | ![play_detail](screenshot/mall.png) |
 
-
+<img src="https://images.gitee.com/uploads/images/2019/0927/203415_409a0886_682499.png" width="400px" height="800px">
 # How to start
 
 ### 点击链接下载安装包
